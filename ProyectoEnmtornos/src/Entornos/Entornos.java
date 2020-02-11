@@ -8,6 +8,7 @@ int iu;
 iu=0+1;
 
 System.out.println(iu);
+System.out.println(iu+2);
 	}
 
 }
